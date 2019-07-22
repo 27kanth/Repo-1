@@ -4,3 +4,7 @@ this is the 2nd line aded by local branch B1
 this is  3rd line added in central repo --B1
 hello master--central--master
 5th by local--master
+this is the 5th line  central--B1
+6th line in central --B1
+7th by local--b1
+8th central--b1
